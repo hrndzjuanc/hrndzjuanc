@@ -1,23 +1,13 @@
-### Hi there 👋
+My passion for technology began at a very early age and using excel's VBA and macros I discovered a new world of communication with machines.
 
-Feel free to check my latest wordpress sites:
-www.taulibms.com
-www.arawato.es
-www.karpedoficial.com
-www.satmdservicios.es
-www.ecofacilitysolutions.es
+Since then, I have learned to use multiple languages and develop all kinds of applications to automate and make human life easier, even made some games as side projects.
 
-<!--
-**hrndzjuanc/hrndzjuanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm now a Senior Software Engineer with more than 8 years contributing to the digital world and
+developing solutions for large and small sectors.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Among others, my strongest skills are:
+Accurate planning and designing software architecture.
+Assure best practices.
+Proactive.
+Critical thinking.
+True team player.
