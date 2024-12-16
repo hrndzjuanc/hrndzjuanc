@@ -1,13 +1,13 @@
-My passion for technology began at a very early age and using excel's VBA and macros I discovered a new world of communication with machines.
+I am an experienced professional in digital solutions development with over 9 years of experience, specializing in delivering high-quality products across a wide range of technologies. My career has been built on designing and implementing software solutions, where I have applied agile methodologies, actively participated in code reviews, and contributed to creating stable and efficient development environments.
 
-Since then, I have learned to use multiple languages and develop all kinds of applications to automate and make human life easier, even made some games as side projects.
+I possess a proven track record of significant contributions across various sectors and industries, easily adapting to the specific needs of each project.
 
-I'm now a Senior Software Engineer with more than 8 years contributing to the digital world and
-developing solutions for large and small sectors.
+I am deeply committed to innovation and digital transformation, maintaining a constant focus on learning and continuous improvement.
 
-Among others, my strongest skills are:
-Accurate planning and designing software architecture.
-Assure best practices.
-Proactive.
-Critical thinking.
-True team player.
+Among my most notable skills are:
+
+- Ability to design and structure complex system architectures.
+- Implementation of best practices in development and project management.
+- Proactivity and the ability to take initiative in various situations.
+- Skill in analysis and critical thinking, tackling problems with creative solutions.
+- Effective collaboration as an integral part of multifunctional teams.
